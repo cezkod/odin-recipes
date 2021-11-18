@@ -1,0 +1,54 @@
+/* styles.css */
+.Home {
+  margin:auto;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 10px;
+  background-color:azure;
+}
+
+/*only to separate from home css */
+.moose {
+  margin:auto;
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  padding: 50px;
+  background-color:mintcream;
+
+
+
+
+
+}
+.desc {
+  
+
+
+}
+
+body {
+  border-left: 15px inset #1C6EA4;
+}
+.menu {
+margin: 0;
+padding: 50px;
+display: inline;
+
+
+}
+
+.steps-header {
+
+}
+
+.steps {
+  border: 19px outset #1C6EA4;
+  border-radius: 40px 40px 40px 0px;
+
+
+}
+
+
+.Ingredients {
+
+
+
+}
