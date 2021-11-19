@@ -1,7 +1,7 @@
 /* styles.css */
 .Home {
   margin:auto;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Haettenschweiler, sans-serif;
   padding: 10px;
   background-color:azure;
 }
@@ -9,7 +9,7 @@
 /*only to separate from home css */
 .moose {
   margin:auto;
-  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-family:Haettenschweiler, sans-serif;
   padding: 50px;
   background-color:mintcream;
 
